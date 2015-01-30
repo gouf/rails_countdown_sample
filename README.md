@@ -1,28 +1,18 @@
-== README
+# rails_countdown_sample
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Usage
 
-Things you may want to cover:
+```
+bundle
+rake db:migrate
+# and access to http://localhost:3000/users/
+```
 
-* Ruby version
+## Links
 
-* System dependencies
+* [mauriciopasquier/jquery-countdown-rails - GitHub](https://github.com/mauriciopasquier/jquery-countdown-rails)
+* [kbwood/countdown - GitHub](https://github.com/kbwood/countdown)
 
-* Configuration
+( [jquery.countdown-ja.js](https://github.com/mauriciopasquier/jquery-countdown-rails/blob/master/vendor/assets/javascripts/jquery.countdown-ja.js) )
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* [jQuery Countdown](http://keith-wood.name/countdown.html)
