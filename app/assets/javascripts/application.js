@@ -12,5 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.countdown
+//= require jquery.countdown-ja
 //= require turbolinks
 //= require_tree .

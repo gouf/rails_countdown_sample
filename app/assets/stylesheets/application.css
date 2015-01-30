@@ -11,5 +11,6 @@
  * file per style scope.
  *
  *= require_tree .
+ *= require jquery.countdown
  *= require_self
  */
